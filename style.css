@@ -1,0 +1,54 @@
+html {
+    font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #001f3f;
+    
+}
+
+.container-fluid{
+    background-color: #001f3f;
+    color: #7FDBFF;
+    
+
+}
+
+.main {
+    display: block;
+    /* justify-content: center; */
+    align-items: baseline;
+}
+    
+.header {
+    margin: 2rem auto 5rem 2rem;
+}
+
+#title {
+    text-align: center;
+}
+
+.custom-control.custom-radio.custom-control-inline {
+    margin-right: 20%;
+    margin-bottom: 2%;
+}
+
+.col-sm-4.col-form-label.col-form-label-sm {
+    font-size: 120%;
+    padding-top: 0;
+}
+
+#caculate {
+    width: 50%;
+    margin-bottom: 2rem;
+}
+
+.group {
+    font-size: 150%;
+}
+
+.btn {
+    font-size: 150%;
+}
+
+.custom-control.custom-radio.custom-control-inline{
+    margin: 2%;
+}
+
